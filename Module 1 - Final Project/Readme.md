@@ -30,16 +30,16 @@ This project looks at information on musical tracks that populated the Pop Chart
 
 ## Questions to be answered
 
-1.) What is the most successful bpm interval for musical hits?
-2.) Is there a relation between bpm and chart position?
-3.) Is there a dominant music genre in Popular Charts?
-4.) Do popular genres vary throughout the years?
-5.) Is there anß unpopular genre?
-6.) What are the lowest and highest bpm in charts?
-7.) What are the shortest and longest tracks in charts?
-8.) Is there a relation between track duration and chart position?
+1. What is the most successful bpm interval for musical hits?
+2. Is there a relation between bpm and chart position?
+3. Is there a dominant music genre in Popular Charts?
+4. Do popular genres vary throughout the years?
+5. Is there anß unpopular genre?
+6. What are the lowest and highest bpm in charts?
+7. What are the shortest and longest tracks in charts?
+8. Is there a relation between track duration and chart position?
 
-##Notes
+### Notes
 
 From the web scrapping processing, it was clear that genres are not mutually exclusive nor do they present the same interval size. This means that a song and its BPM value might fit within several musical genres.
 
@@ -77,9 +77,5 @@ The longest track in the 2013-2018 charts was Changes by Faul & Wad with 345  se
 
 The shortest track in the 2013-2018 charts was Are You With Me (Radio Edit) by Lost Frequencies with  138  seconds.
 
-
-## Further Questions
-
 There seems to be a trend for charting songs to become shorter in more recent years 
-
 However, the songs that reach the higher chart position tend to be longer.
