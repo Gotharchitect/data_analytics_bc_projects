@@ -1,7 +1,7 @@
 
-h1.Musical genres in pop charts
+# Musical genres in pop charts
 
-h2.Introduction
+## Introduction
 
 "Popular music is a generic term for a wide variety of genres of music that appeal to the tastes of a large segment of the population, whereas pop music usually refers to a specific musical genre within popular music."
 
@@ -14,7 +14,7 @@ For the end of Module 1, in the Data Analytics Part-Time Bootcamp, we were ask t
 This project looks at information on musical tracks that populated the Pop Charts in the past years and correlates the bpm (beats per minute) value of each song with the standard for each musical genre.
 
 
-##Data used
+## Data Used
 
 - Deezer API: https://developers.deezer.com/api  specifically the '/chart' and '/tracks' endpoints
 	Challenges:
@@ -28,7 +28,7 @@ This project looks at information on musical tracks that populated the Pop Chart
 - Tunebat: https://tunebat.com/ for pontual corrections on bpm value
 
 
-##Questions to be answered
+## Questions to be answered
 
 1.) What is the most successful bpm interval for musical hits?
 2.) Is there a relation between bpm and chart position?
@@ -48,7 +48,8 @@ The study focused in a 6 years interval from 2013 to 2018.
 
 Finding the BPMs: Deezer returned NaNs for a small number of song's BPMs. These were manually updated with values from the TuneBat site.
 
-##Conclusion
+
+## Conclusion
 
 There was no clear difference between the yearly BPM values.
 
@@ -68,7 +69,6 @@ However we must consider that this is the genre with narrowest range, so less li
 - the 120-125 interval, pertaining Jazz and Funk,  is actually quite popular
 - the charts contain a highest number of middle range songs than the extremes
 
-
 The track with the highest BPM in the 2013-2018 charts was The Greatest by Sia with  192.3  BPMs.
 
 The track with the lowest BPM in the 2013-2018 charts was Human by Rag'n'Bone Man with  75.0  BPMs.
@@ -78,7 +78,7 @@ The longest track in the 2013-2018 charts was Changes by Faul & Wad with 345  se
 The shortest track in the 2013-2018 charts was Are You With Me (Radio Edit) by Lost Frequencies with  138  seconds.
 
 
-##Further questions
+## Further Questions
 
 There seems to be a trend for charting songs to become shorter in more recent years 
 
