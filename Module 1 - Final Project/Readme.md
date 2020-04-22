@@ -1,8 +1,7 @@
 
-Musical genres in pop charts
+h1.Musical genres in pop charts
 
-
-##Introduction
+h2.Introduction
 
 "Popular music is a generic term for a wide variety of genres of music that appeal to the tastes of a large segment of the population, whereas pop music usually refers to a specific musical genre within popular music."
 
