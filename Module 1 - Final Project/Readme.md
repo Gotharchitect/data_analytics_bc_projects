@@ -78,9 +78,9 @@ The longest track in the 2013-2018 charts was Changes by Faul & Wad with 345  se
 
 The shortest track in the 2013-2018 charts was Are You With Me (Radio Edit) by Lost Frequencies with  138  seconds.
 
+
+##Further questions
+
 There seems to be a trend for charting songs to become shorter in more recent years 
 
 However, the songs that reach the higher chart position tend to be longer.
-
-
-##Further questions
